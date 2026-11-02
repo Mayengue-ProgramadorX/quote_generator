@@ -16,9 +16,9 @@ data_quotes = [
 ]
 
 
-#take 10 random numbers data_quotes
-#choices(): allows you to ensure that the 10 chosen numbers can have repetitions.
-books = random.choices(data_quotes, k=10)
+#take 1 random numbers data_quotes
+#choices(): allows you to ensure that  chosen numbers can have repetitions.
+books = random.choices(data_quotes)
 
 print("================== QUOTES==============")
 for quote, author in books:
