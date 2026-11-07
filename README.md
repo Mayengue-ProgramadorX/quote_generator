@@ -32,7 +32,7 @@ The quote is displayed using an f-string:
      "Life is what happens when you're busy making other plans." — John Lennon    
 
 ### **How to Run
-**python quote_generator.py**
+**python main.py**
 
 
 ### **Example Output
